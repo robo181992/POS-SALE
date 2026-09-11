@@ -1,0 +1,6 @@
+{
+  "name": "Supermarket POS & Billing System",
+  "description": "High-speed retail supermarket billing system with sub-second barcode processing, GST engine, weighing scale integration, thermal receipt printing, inventory tracking, and sales analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
